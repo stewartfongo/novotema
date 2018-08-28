@@ -19,7 +19,7 @@
     				<img src="<?php echo get_template_directory_uri();?>/assets/images/logo.png" class="img" width=100% height="100%"></img>
     			</a>
     		</div>
-    		<div class"col-md-9 titulo">
+    		<div class="col-md-9 titulo">
     			<h1><?php bloginfo('name')?></h1>
     			<p><?php bloginfo('description')?></p>
     		</div>
