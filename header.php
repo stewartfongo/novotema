@@ -7,7 +7,7 @@
 	<title><?php wp_title();?></title>
 	
 	<link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/assets/css/bootstrap/css/bootstrap.min.css" type="text/css" />
-	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url');?>" type="text/css" />
+	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url')?>s" type="text/css" />
 	
 	<?php wp_head();?>
 </head>
@@ -16,7 +16,7 @@
     	<div class="row">
     		<div class="col-md-3 logo">
     			<a href="<?php echo site_url();?>">
-    				<img src="<?php echo get_template_directory_uri();?>/assets/images/logo.png" class="logo img"></img>
+    				<img src="<?php echo get_template_directory_uri();?>/assets/images/logo.png" class="img" width=100% height="100%"></img>
     			</a>
     		</div>
     		<div class"col-md-9 titulo">

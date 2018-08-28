@@ -1,22 +1,19 @@
 /*
 Theme Name: Novo Tema
 Theme URL: https://github.com/
-Authors: Stewart Fonseca and Laiz Assucena
+Authors: Stewart Fonseca, Laiz Assucena & Julia Bastos
 Authors URL: https://github.com/stewartfongo/
 https://github.com/laizassucena/
+https://github.com/juliakkjk/
 Description: Tema criado para as aulas de APWE
 Version: 1.0
 */
 
 h2 {
-    color: #000;
+    color: #00f;
 }
 
 .img {
-    width: 200px;
-    height: 200px;
-}
-
-.logo {
-     background-color: red;
+    width: 20px;
+    height: 20px;
 }
