@@ -4,16 +4,44 @@ Theme URL: https://github.com/
 Authors: Stewart Fonseca, Laiz Assucena & Julia Bastos
 Authors URL: https://github.com/stewartfongo/
 https://github.com/laizassucena/
-https://github.com/juliakkjk/
+https://github.com/juliabastos/
 Description: Tema criado para as aulas de APWE
 Version: 1.0
 */
 
+.geral {
+    background: #000;
+}
+
 h2 {
-    color: #00f;
+    color: red;
 }
 
 .img {
     width: 20px;
     height: 20px;
+}
+
+.logo {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.titulo h1 {
+    margin-top: 10%;
+    text-transform: uppercase;
+}
+
+.rodape p {
+    margin-top: 150px;
+}
+
+.foto img {
+    width: 100%;
+    height: 200px;
 }
