@@ -1,6 +1,6 @@
 <div class="row">
     <div class="col-md-12 rodape">
-        <p>Site desenvolvido por Jussimar leal</p>
+        <p>Site desenvolvido por Julia Bastos, Laiz Assucena & Stewart Fonseca</p>
     </div>
 </div>
 
