@@ -22,7 +22,6 @@
 						<h3><?php the_title(); ?></h3>
 						<div class="img-responsive img-thumbnail foto"><?php the_post_thumbnail(); ?></div>
 						<p><?php the_excerpt(); ?></p>
-						<a class="btn btn-primary" href="<?php the_permalink();?>">Leia mais</a>
 	</div>
 	<?php
 					}
