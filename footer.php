@@ -1,9 +1,10 @@
 <div class="row">
     <div class="col-md-12 rodape">
-        <p>Site desenvolvido por Stewart Fonseca, Laiz Assucena & Julia Bastos</p>
+        <p>Site desenvolvido por Jussimar leal</p>
     </div>
 </div>
 
-<?php wp_footer();?>
+</div>
+<?php wp_footer(); ?>
 </body>
 </html>
