@@ -49,3 +49,11 @@ h2{
 .rodape p{
     margin-top: 150px;
 }
+.navbar-inner{
+	width:100%;
+}
+
+.navbar-nav{
+	display:flex;
+	flex-direction: row;
+}
